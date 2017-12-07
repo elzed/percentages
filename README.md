@@ -1,2 +1,2 @@
-# percentages
-Calculate based on drop-down menu
+# Percentages
+Calculate based on drop-down menu.
